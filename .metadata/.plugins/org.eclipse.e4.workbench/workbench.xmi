@@ -128,16 +128,10 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_JEBawGznEeSYONQcyrWIbg" elementId="org.eclipse.ui.editorss" selectedElement="_JECB0GznEeSYONQcyrWIbg">
-      <children xsi:type="basic:PartStack" xmi:id="_JECB0GznEeSYONQcyrWIbg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_x1WfQGznEeS_04LD2OKVaQ">
+      <children xsi:type="basic:PartStack" xmi:id="_JECB0GznEeSYONQcyrWIbg" elementId="org.eclipse.e4.primaryDataStack">
         <tags>newtablook</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
-        <children xsi:type="basic:Part" xmi:id="_x1WfQGznEeS_04LD2OKVaQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="login.html" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;login.html&quot; partName=&quot;login.html&quot; title=&quot;login.html&quot; tooltip=&quot;8.03/WebContent/login.html&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/8.03/WebContent/login.html&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;311&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.wst.html.core.htmlsource.source</tags>
-          <tags>removeOnHide</tags>
-        </children>
       </children>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_JENA8GznEeSYONQcyrWIbg" elementId="org.eclipse.ui.navigator.ProjectExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.gif" closeable="true">
@@ -247,7 +241,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_I7eiwGznEeSYONQcyrWIbg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_uK_GUGznEeS_04LD2OKVaQ" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_IcN0HmznEeSYONQcyrWIbg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_RW_roGzpEeS0XOn0SeoJKw" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_IcN0HmznEeSYONQcyrWIbg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_I7eiwWznEeSYONQcyrWIbg" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -274,7 +268,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_I7fw4GznEeSYONQcyrWIbg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_uLGbEWznEeS_04LD2OKVaQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_IcNM4GznEeSYONQcyrWIbg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_RXFyQGzpEeS0XOn0SeoJKw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_IcNM4GznEeSYONQcyrWIbg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_I7fw4WznEeSYONQcyrWIbg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
